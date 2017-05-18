@@ -1,3 +1,22 @@
-body{
-	background-color: ;
+* {
+	font-family:;
+
+}
+
+h1{
+	background-color: #007acc;
+	text-align: center;
+	color: #66c2ff;
+}
+
+.container{
+
+	background-color: #007acc;
+	padding: ; 
+	width: 250px;
+	height: 150px;
+}
+
+#buttonList{
+	background-color: #39ac39;
 }
